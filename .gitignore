@@ -1,0 +1,32 @@
+# WordPress core
+wp-admin/
+wp-includes/
+
+# Fichier de config avec credentials
+wp-config.php
+
+# Uploads médias
+wp-content/uploads/
+
+# Plugins tiers
+wp-content/plugins/advanced-custom-fields/
+wp-content/plugins/astra_worker/
+wp-content/plugins/contact-form-7/
+wp-content/plugins/elementor/
+wp-content/plugins/hide-my-wp/
+wp-content/plugins/ocean-elementor-widgets/
+wp-content/plugins/ocean-extra/
+wp-content/plugins/ocean-social-sharing/
+wp-content/plugins/query-monitor/
+wp-content/plugins/wpforms-lite/
+
+# Thèmes tiers
+wp-content/themes/oceanwp/
+wp-content/themes/twentytwentyone/
+wp-content/themes/twentytwentythree/
+wp-content/themes/twentytwentytwo/
+
+# Fichiers système
+.DS_Store
+node_modules/
+*.log
