@@ -65,7 +65,7 @@
 							<div class="popup-address">
 								<p><b>Le lieu</b></p>
 								<?php echo $lieu; ?>
-								<a class="popup-link" href="<?php echo $lien; ?>" target="_blank">Voir sur Google Maps</a>
+								<a class="popup-link" href="<?php echo $lien['url']; ?>" target="_blank">Voir sur Google Maps</a>
 							</div>
 							<div class="popup-address">
 								<p><b>La date</b></p>
