@@ -102,3 +102,10 @@ Version: 1.0
     margin-bottom:10px;
     border-bottom: 1px solid #28babf;
 }
+
+/* Menu horizontal desktop - "Nous contacter" */
+@media (min-width: 768px) {
+    a.contact-btn {
+        color: #2377a8 !important;
+    }
+}
