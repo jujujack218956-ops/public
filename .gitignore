@@ -30,3 +30,9 @@ wp-content/themes/twentytwentytwo/
 .DS_Store
 node_modules/
 *.log
+
+# Cypress
+cypress/
+cypress.config.js
+package.json
+package-lock.json
